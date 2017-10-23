@@ -1,4 +1,4 @@
-package com.mckinsey.attributionlist
+package com.innovativeintelli.dogstar
 
 import java.sql.DriverManager
 import java.sql.Connection
